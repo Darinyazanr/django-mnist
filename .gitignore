@@ -1,0 +1,6 @@
+*.sqlite3
+*.iml
+venv
+.idea
+/utils/saved_models/*
+/utils/train_data/*
